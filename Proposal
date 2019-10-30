@@ -1,0 +1,13 @@
+Functions with Pointer. 
+//learn how to pass pointer as an argument to functions;
+// in-depth review in using new to allocate memory for pointer.
+//recursive call;
+
+Class with Pointer.
+//learning the meaning and benefits by using class.
+//try to use pointer to access variable within function.
+//knowing how to use accessor and mutator
+
+Vector
+// #include <vector>
+// knowing some basic concept of this thing. Since it is completely new to me.
